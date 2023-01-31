@@ -1,6 +1,0 @@
----
-title: "Baseball Data Projects"
-author: "Luke Werkmeister-Martin"
-categories: [R, Python, SQL]
-image: "moneyball.jpg"
----

@@ -1,6 +1,0 @@
----
-title: "Football Data Projects"
-author: "Luke Werkmeister-Martin"
-categories: [R, SQL]
-image: "ngs.jpeg"
----

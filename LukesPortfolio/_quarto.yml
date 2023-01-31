@@ -1,0 +1,23 @@
+project:
+  type: website
+  output-dir: docs
+
+website:
+  title: "Luke Werkmeister-Martin"
+  navbar:
+    left:
+      - href: index.qmd
+        text: Projects
+      - about.qmd
+    right:
+      - icon: linkedin
+        href: https://www.linkedin.com/in/luke-werkmeister/
+
+format:
+  html:
+    theme: morph
+    css: styles.css
+    toc: true
+
+editor: visual
+

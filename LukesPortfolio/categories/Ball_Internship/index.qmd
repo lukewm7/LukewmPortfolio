@@ -1,0 +1,6 @@
+---
+title: "Ball Aerospace Internship"
+author: "Luke Werkmeister-Martin"
+categories: [Python, SQL, PowerBI]
+image: "ball.jpeg"
+---
